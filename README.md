@@ -49,7 +49,7 @@ yarn test
     - Node.
     - JavaScript.
     - jest.
-    - uuid
+    - uuid.
     - superTest
     - Nodemon.
 
