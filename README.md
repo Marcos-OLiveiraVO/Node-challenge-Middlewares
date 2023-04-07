@@ -27,7 +27,7 @@ yarn test
     
     GET /users/:id → pesquisa um usuário pelo id
     
-    PATCH /users/:id/pro → atualiza o plano do usuário para PRO caso não seja
+    PATCH /users/:id/pro → atualiza o plano do usuário para PRO caso não seja.
    
     GET /todos → lista com todas as tarefas do usuário.
     
